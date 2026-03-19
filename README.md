@@ -57,14 +57,15 @@ The proposed approach follows a hybrid segmentation framework:
 ---
 
 ## 📂 Repository Structure
-├── proposal/ # Final proposal document and planning materials
-├── src/ # Python scripts for segmentation
-├── notebooks/ # Experimental notebooks
-├── outputs/ # Segmentation results (images/videos)
-├── docs/ # Methodology and documentation
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
+Segmentation-of-Vocal-Tract-using-rt-MRI/
+│
+├── proposal/          # Final proposal document and planning materials
+├── src/               # Python scripts for segmentation
+├── notebooks/         # Experimental notebooks
+├── outputs/           # Segmentation results (images/videos)
+├── docs/              # Methodology and documentation
+├── requirements.txt   # Project dependencies
+└── README.md          # Project documentation
 ---
 
 ## 🛠️ Tools & Technologies
