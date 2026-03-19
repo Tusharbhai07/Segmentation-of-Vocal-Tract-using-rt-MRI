@@ -57,6 +57,8 @@ The proposed approach follows a hybrid segmentation framework:
 ---
 
 ## 📂 Repository Structure
+
+```bash
 Segmentation-of-Vocal-Tract-using-rt-MRI/
 │
 ├── proposal/          # Final proposal document and planning materials
